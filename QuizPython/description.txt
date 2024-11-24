@@ -1,0 +1,1 @@
+Para executar o quiz faça download do arquivo ou da pasta e execute na sua IDE de preferência ou até utilizando o terminal do seu SO.
